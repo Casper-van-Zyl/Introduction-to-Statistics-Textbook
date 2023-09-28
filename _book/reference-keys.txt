@@ -19,3 +19,7 @@ sharing-your-book
 publishing
 pages
 metadata-for-sharing
+fig:nice-fig
+tab:nice-tab
+url-your-book-url-like-httpsbookdown.orgyihuibookdown
+chapter-2
